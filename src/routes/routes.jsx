@@ -16,8 +16,8 @@ import ManageBooks from '@/pages/dashboard/manageBooks/ManageBooks';
 import AddBook from '@/pages/dashboard/addBooks/AddBook';
 import UpdateBook from '@/pages/dashboard/editBook/UpdateBook';
 import PageNotFound from '@/components/PageNotFound';
-import Contact from '@/pages/contact/contact';
-import Search from '@/pages/search/search';
+import Contact from '@/pages/contact/Contact';
+import Search from '@/pages/search/Search';
 
 const router=createBrowserRouter([
     {
